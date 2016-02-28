@@ -60,6 +60,11 @@ most favorite projects. It has been running with no problems for over a year now
 Description<br>
 I have created a desktop client for a company that needed it for internal use.
 I used Electron as the base for this project for its native approach on different
-platforms. This application was created for OS X and Windows 7 and up. This application
+platforms. It takes the web client of their software and wraps it into a more
+user friendly application that was given multiple features such as:<br>
+- Auto-Sign in<br>
+- Full dynamic menu bar<br>
+- Native Operating system look<br>
+This application was created for OS X and Windows 7 and up. This application
 is currently being used by twenty-two employees internally for a company called 
 SightPlan. Unfortunately, I cannot post any source code on this public repository. 
