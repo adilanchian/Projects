@@ -45,4 +45,13 @@ This "choose your own adventure" game was created for the sole purpose to play
 on the Apple Watch. There are multiple paths that can be taken. All items and 
 animals encountered in the game are all randomly generated from an array. To
 view this project please visit this Repo:<br>
-https://github.com/adilanchian/UHack 
+https://github.com/adilanchian/UHack
+
+#Submerged Mineral Oil Computer
+Description<br>
+A project that I wanted to do for a very long time. This computer is Submerged
+in five gallons of mineral oil, a non-conductive liquid that actually will help
+cool computer components. I added a pump to circulate the oil through a radiator
+to cool while in use. In 'submerged-mineral-oil-computer' there is a video of
+the computer turned on and running inside of the mineral oil. This is one of my 
+most favorite projects. It has been running with no problems for over a year now.
