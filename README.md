@@ -55,3 +55,11 @@ cool computer components. I added a pump to circulate the oil through a radiator
 to cool while in use. In 'submerged-mineral-oil-computer' there is a video of
 the computer turned on and running inside of the mineral oil. This is one of my 
 most favorite projects. It has been running with no problems for over a year now.
+
+#Desktop Application
+Description<br>
+I have created a desktop client for a company that needed it for internal use.
+I used Electron as the base for this project for its native approach on different
+platforms. This application was created for OS X and Windows 7 and up. This application
+is currently being used by twenty-two employees internally for a company called 
+SightPlan. Unfortunately, I cannot post any source code on this public repository. 
