@@ -8,6 +8,12 @@ Given a set of numbers your goal is to add them all, while minimizing the cost o
 the addition. At any point, you may choose to add any two of the integers. 
 The cost of doing so is simply the sum of the two numbers.
 
+#ListString.c
+- Created for Computer Science 1 <br>
+Description<br>
+This program uses linked lists to represent strings. Functions have been created
+to manipulate these linked lists. 
+
 #Hillcipher.java
 - Created for Security In Computing <br>
 Description<br>
