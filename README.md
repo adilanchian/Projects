@@ -64,7 +64,8 @@ platforms. It takes the web client of their software and wraps it into a more
 user friendly application that was given multiple features such as:<br>
 - Auto-Sign in<br>
 - Full dynamic menu bar<br>
-- Native Operating system look<br>
+- Native Operating system look
+<br>
 This application was created for OS X and Windows 7 and up. This application
 is currently being used by twenty-two employees internally for a company called 
 SightPlan. Unfortunately, I cannot post any source code on this public repository. 
