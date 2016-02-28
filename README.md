@@ -59,7 +59,7 @@ running with no problems for over a year now.
 I have created a desktop application for SightPlan - a multifamily software development
 company. I used Electron as the base for this project because its native approach on different
 platforms. It takes the web client of SightPlan's software and wraps it into a more
-user friendly application that I assigned multiple features, such as:<br>
+user friendly application that I assigned multiple features, such as:<br><br>
 1. Auto-Sign in<br>
 2. Full dynamic menu bar<br>
 3. Native Operating system look<br>
