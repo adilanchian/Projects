@@ -28,3 +28,12 @@ Description<br>
 This is an desktop app of the classic board game, Boggle. This was a semester
 long project.
 
+#Age
+Description<br>
+Simple project that calculates the users "human age" into dog years. This was 
+created using Swift and Xcode.
+
+#Gussing Game
+Description<br>
+Simple project that randomly generates a number between one and five. The user
+has to guess what the number is. This was created using Swift and Xcode. 
