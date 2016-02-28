@@ -16,3 +16,9 @@ Hill cipher. The program will take two command line parameters containing the
 names of the file storing the encryption key and the file to be encrypted. 
 The program must generate output to the console (terminal) in a specified format.
 
+#Boggle.java
+- Created for Objected Oriented Programming <br>
+Description<br>
+This is an desktop app of the classic board game, Boggle. This was a semester
+long project.
+
