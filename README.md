@@ -36,4 +36,13 @@ created using Swift and Xcode.
 #Gussing Game
 Description<br>
 Simple project that randomly generates a number between one and five. The user
-has to guess what the number is. This was created using Swift and Xcode. 
+has to guess what the number is. This was created using Swift and Xcode.
+
+#The Forest
+- Created at UHack 2016
+Description<br>
+This "choose your own adventure" game was created for the sole purpose to play 
+on the Apple Watch. There are multiple paths that can be taken. All items and 
+animals encountered in the game are all randomly generated from an array. To
+view this project please visit this Repo:<br>
+https://github.com/adilanchian/UHack.git 
