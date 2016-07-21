@@ -58,9 +58,7 @@ running with no problems for over a year now.<br>
 <br>
 Create meaningful notifications and take control over your schedule. Sometimes we're forgetful and sometimes we just need a little motivation. Whatever the purpose, Cycles helps you reach those goals with an easy to use interface. Finishing your cycles means you deserve an award. The more cycles you complete, the more trophies you rack up. With 
 a native watch interface that is similar to Apple's operating system, Cycles is
-easy to pick up and start using.<br>
-![alt tag](cycles/watch_screen@2x.png) ![alt tag](cycles/cycle_table@2x.png) 
-![alt tag](cycles/cycles_screen@2x.png) ![alt tag](cycles/cycles_detail_table@2x.png)
+easy to pick up and start using. To view screenshots, please go to the cycles folder within this repository.<br>
 
 #Desktop Application
 <br>
