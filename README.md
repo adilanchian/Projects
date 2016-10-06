@@ -12,7 +12,12 @@ The cost of doing so is simply the sum of the two numbers.
 Created for Computer Science 1 <br>
 <br>
 This program uses linked lists to represent strings. Functions have been created
-to manipulate these linked lists. 
+to manipulate these linked lists.
+
+#LinkedList.cpp
+Created as practice using C++ <br>
+<br>
+This program shows the basics of a linked list and one way about creating nodes, inserting nodes, and printing the final list. Just copy the folder and use 'g++ LinkedList.cpp' to compile in terminal/CMD. Finally, use './a.out' to see the output.
 
 #Hillcipher.java
 Created for Security In Computing <br>
