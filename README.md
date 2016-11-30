@@ -8,6 +8,11 @@ Create meaningful notifications and take control over your schedule. Sometimes w
 a native watch interface that is similar to Apple's operating system, Cycles is
 easy to pick up and start using. To view screenshots, please go to the cycles folder within this repository.<br>
 
+### SwiftyCode
+
+Collaborate on blocks of code using SwiftyCode through iMessage for iPhone.
+Utilize three programming languages: Swift, Objective-C, and C. With the tap of a button, create custom blocks of code and send it off to a friend.  
+
 ### Age
 
 Simple project that calculates the users "human age" into dog years. This was 
