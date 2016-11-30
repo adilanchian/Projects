@@ -64,14 +64,14 @@ long project.
 
 # Projects
 ### Submerged Mineral Oil Computer
-<br>
+
 This computer is Submerged in five gallons of mineral oil, a non-conductive liquid that will help cool computer components. I added a pump to circulate the oil through a radiator
 to cool while in use. In 'submerged-mineral-oil-computer' there is a video of
 the computer turned on and running inside of the mineral oil. It has been 
 running with no problems for over a year now.<br>
 
 ### Desktop Application
-<br>
+
 I have created a desktop application for SightPlan - a multifamily software development
 company. I used Electron as the base for this project because its native approach on different
 platforms. It takes the web client of SightPlan's software and wraps it into a more
