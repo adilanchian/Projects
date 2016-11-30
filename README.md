@@ -17,6 +17,7 @@ Utilize three programming languages: Swift, Objective-C, and C. With the tap of 
 
 Simple project that calculates the users "human age" into dog years. This was 
 created using Swift and Xcode.
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20774400/29ab5b66-b724-11e6-90f2-8bfd3b78fe70.png)
 
 ### Gussing Game
 
