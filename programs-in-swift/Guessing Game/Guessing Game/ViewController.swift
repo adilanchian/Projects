@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var GuessBox: UITextField!
     @IBOutlet weak var PrintLabel: UILabel!
     
-    @IBAction func SubmitButton(sender: AnyObject) {
+    @IBAction func SubmitButton(_ sender: AnyObject) {
         
         let computerNumber = String(arc4random_uniform(6));
        
