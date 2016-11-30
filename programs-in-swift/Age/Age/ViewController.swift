@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var resultLabel: UILabel!
     
     
-    @IBAction func findAge(sender: AnyObject) {
+    @IBAction func findAge(_ sender: AnyObject) {
         var ageMath = Int(age.text!)!;
         ageMath = ageMath / 7;
         print("Button Clicked");
