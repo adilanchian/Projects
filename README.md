@@ -3,18 +3,18 @@ This is a compilation of all programs I have created in multiple high level lang
 
 # Programs in Swift
 ### Cycles
-<br>
+
 Create meaningful notifications and take control over your schedule. Sometimes we're forgetful and sometimes we just need a little motivation. Whatever the purpose, Cycles helps you reach those goals with an easy to use interface. Finishing your cycles means you deserve an award. The more cycles you complete, the more trophies you rack up. With 
 a native watch interface that is similar to Apple's operating system, Cycles is
 easy to pick up and start using. To view screenshots, please go to the cycles folder within this repository.<br>
 
 ### Age
-<br>
+
 Simple project that calculates the users "human age" into dog years. This was 
 created using Swift and Xcode.
 
 ### Gussing Game
-<br>
+
 Simple project that randomly generates a number between one and five. The user
 has to guess what the number is. This was created using Swift and Xcode.
 
