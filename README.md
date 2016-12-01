@@ -45,14 +45,14 @@ This program is a "virtual machine" written in C to simulate a computer with a o
 
 ### AddAll
 Created for Computer Science 1 <br>
-<br>
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20778817/7ade019a-b73e-11e6-8c2d-d2e0951e3535.png)<br>
 Given a set of numbers your goal is to add them all, while minimizing the cost of 
 the addition. At any point, you may choose to add any two of the integers. 
 The cost of doing so is simply the sum of the two numbers.
 
 ### ListyString
 Created for Computer Science 1 <br>
-<br>
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20778848/d0d93ed4-b73e-11e6-8c86-93ff0e8dc08f.png)
 This program uses linked lists to represent strings. Functions have been created
 to manipulate these linked lists.
 
