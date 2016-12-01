@@ -65,7 +65,7 @@ This program shows the basics of a linked list and one way about creating nodes,
 # Programs in Java
 ### Hillcipher
 Created for Security In Computing <br>
-![alt tag](https://cloud.githubusercontent.com/assets/13204620/20779221/06c6078c-b741-11e6-9f9f-89ed18ac53a4.png)<br>
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20779225/0a6ac56c-b741-11e6-824d-62b049822634.png)<br>
 Write a program that encrypts the alphabetic letters in a file using the 
 Hill cipher. The program will take two command line parameters containing the 
 names of the file storing the encryption key and the file to be encrypted. 
@@ -73,7 +73,7 @@ The program must generate output to the console (terminal) in a specified format
 
 ### Boggle
 Created for Objected Oriented Programming <br>
-![alt tag](https://cloud.githubusercontent.com/assets/13204620/20779225/0a6ac56c-b741-11e6-824d-62b049822634.png)<br>
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20779221/06c6078c-b741-11e6-9f9f-89ed18ac53a4.png)<br>
 This is an desktop app of the classic board game, Boggle. This was a semester
 long project.
 
