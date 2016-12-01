@@ -38,6 +38,11 @@ view this project please visit this Repo:<br>
 https://github.com/adilanchian/UHack
 
 # Programs in C
+### TinyMachine
+Created for Computer Architecture <br>
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20778651/1ffcdab8-b73d-11e6-8a40-6781af8ba516.png)<br>
+This program is a "virtual machine" written in C to simulate a computer with a one core CPU.
+
 ### AddAll
 Created for Computer Science 1 <br>
 <br>
