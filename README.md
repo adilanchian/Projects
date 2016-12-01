@@ -20,7 +20,8 @@ created using Swift and Xcode.
 ![alt tag]()
 
 ### Gussing Game
-![alt tag](https://cloud.githubusercontent.com/assets/13204620/20774615/1f27f20c-b725-11e6-85b2-2a9c9ab0e04f.png)
+
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20774615/1f27f20c-b725-11e6-85b2-2a9c9ab0e04f.png)<br>
 Simple project that randomly generates a number between one and five. The user
 has to guess what the number is. This was created using Swift and Xcode.
 
