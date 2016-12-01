@@ -14,10 +14,9 @@ Collaborate on blocks of code using SwiftyCode through iMessage for iPhone.
 Utilize three programming languages: Swift, Objective-C, and C. With the tap of a button, create custom blocks of code and send it off to a friend.  
 
 ### Age
-
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20774616/1f2fcdec-b725-11e6-9545-433c0ab1b9e9.png)<br>
 Simple project that calculates the users "human age" into dog years. This was 
 created using Swift and Xcode.
-![alt tag]()
 
 ### Gussing Game
 
@@ -26,8 +25,9 @@ Simple project that randomly generates a number between one and five. The user
 has to guess what the number is. This was created using Swift and Xcode.
 
 ### The Forest
+
 Created at UHack 2016<br>
-<br>
+![alt tag](https://cloud.githubusercontent.com/assets/13204620/20774678/5c81402c-b725-11e6-908c-59ca87aea501.png)<br>
 This "choose your own adventure" game was created for the sole purpose of being 
 played on the Apple Watch. There are multiple paths that can be taken. All items and 
 animals encountered in the game are all randomly generated from an array. To
